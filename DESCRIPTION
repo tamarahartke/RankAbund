@@ -1,0 +1,12 @@
+Package: RankAbund
+Type: Package
+Title: Calculate Rank Abundances and Plot Rank Abundance Curves
+Version: 0.1.0
+Depends: ggplot2, dplyr
+Suggests: vegan
+Author: Tamara Hartke
+Maintainer: Tamara Hartke <thartke@gwdg.de>
+Description: Creates data frames of ranked species abundances for each level of a grouping variable and plots rank abundance curves using ggplot.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
