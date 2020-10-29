@@ -11,7 +11,7 @@ spec.ranks(df, gv)
 }
 \arguments{
   \item{df}{
-Community data matrix, with species as columns and sites as rows.
+Community data matrix with species as columns and sites as rows.
 }
   \item{gv}{
 Grouping variable, a vector with one entry corresponding to each row of the data. Currently accepts a dataframe without warning, grouping by every combination of levels.

@@ -1,8 +1,8 @@
 Package: RankAbund
 Type: Package
 Title: Calculate Rank Abundances and Plot Rank Abundance Curves
-Version: 0.1.0
-Depends: ggplot2, dplyr
+Version: 0.2.0
+Depends: ggplot2, dplyr, viridis
 Suggests: vegan
 Author: Tamara Hartke
 Maintainer: Tamara Hartke <thartke@gwdg.de>
